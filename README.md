@@ -1,2 +1,2 @@
 # apna-college-demo
-first github repo
+this is my first git   file
